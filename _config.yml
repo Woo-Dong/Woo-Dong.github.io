@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Park Dongwoo"
+  name   : "Park Dong Woo"
   avatar : "/assets/images/박동우.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "으따 까리하네---@@"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
