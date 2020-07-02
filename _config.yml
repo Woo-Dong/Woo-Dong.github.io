@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/박동우.jpg"
   bio    : "으따 까리하네---@@"
   links:
-    - label: "Website"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:dwpark94@gmail.com"
     - label: "GitHub"
